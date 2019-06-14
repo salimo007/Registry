@@ -1,5 +1,5 @@
 flows:
-  49ffdd5a-cebd-4d3e-ba88-734897704527: {ver: 1, file: test.snapshot, comments: '',
-    author: admin, created: 1560508972589, flowName: test, flowDesc: ''}
+  49ffdd5a-cebd-4d3e-ba88-734897704527: {ver: 2, file: test.snapshot, comments: neww,
+    author: admin, created: 1560509148205, flowName: test, flowDesc: ''}
 layoutVer: 1
 bucketId: 3fec38b8-556c-454c-9d58-90d99737ae19
