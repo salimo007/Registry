@@ -1,5 +1,5 @@
 flows:
-  3c931c75-2194-4dde-a827-f565017bbc2d: {ver: 1, file: asfasfasf.snapshot, comments: '',
-    author: admin, created: 1560508716795, flowName: asfasfasf, flowDesc: ''}
+  3c931c75-2194-4dde-a827-f565017bbc2d: {ver: 2, file: asfasfasf.snapshot, comments: new
+      upload, author: admin, created: 1560508797720, flowName: asfasfasf, flowDesc: ''}
 layoutVer: 1
 bucketId: a35f5fa3-fb06-4b06-ab3f-cc7b4d42be1b
